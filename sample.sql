@@ -1,0 +1,1 @@
+SELECT * FROM "SYS"."M_TABLES";
